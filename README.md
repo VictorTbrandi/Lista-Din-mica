@@ -1,5 +1,5 @@
 📚 Sistema de Gerenciamento de Livros com Múltiplas Listas Dinâmicas
-Este projeto em linguagem C implementa um sistema de gerenciamento de livros com listas encadeadas múltiplas e uso de arquivos binários para persistência de dados. Desenvolvido como exercício de estrutura de dados, ele permite importar livros de um arquivo texto e manipulá-los dinamicamente na memória, oferecendo recursos de exclusão, geração de relatórios e organização por autor e editora.
+Este projeto em linguagem C++ implementa um sistema de gerenciamento de livros com listas encadeadas múltiplas e uso de arquivos binários para persistência de dados. Desenvolvido como exercício de estrutura de dados, ele permite importar livros de um arquivo texto e manipulá-los dinamicamente na memória, oferecendo recursos de exclusão, geração de relatórios e organização por autor e editora.
 
 🔧 Funcionalidades implementadas
 Importação de dados
